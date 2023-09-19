@@ -1,0 +1,12 @@
+body{
+	
+	background:url(../img/abcd\ \(1\).jpg);
+	background-size: cover;
+}
+h1{
+	color: aliceblue;
+}
+.container{
+	
+	text-align: center;
+}
